@@ -19,7 +19,7 @@ int main()
 		{
 			case 1:
 				cout<<"coloca un valor: ";
-cin>>val;
+                cin>>val;
 				cout<<cos(val);
 				
 			break;
