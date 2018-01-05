@@ -15,11 +15,11 @@ int main()
 		cin>>vec[x];
 	}
 //	simetrico(vec,0,0);
-	if(simetrico(vec,0,0)==0)
+	if(simetrico(vec,0,0)==0)//tu contador de ini empiesa en 0 y termina e 0?????
 	{
 		cout<<"NO ES SIMETRICO";
 	}
-	else if(simetrico(vec,0,0)==1) 
+	else if(simetrico(vec,0,0)==1) //tu contador de ini empiesa en 0 y termina e 0?????
 		cout<<"ES SIMETRICO";
 		
 return 0;
